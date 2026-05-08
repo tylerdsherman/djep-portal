@@ -12,7 +12,7 @@
      If you want fine-grained control, you can override the individual
      --djep-brand-dark / --djep-brand-soft / --djep-button-bg* variables too.
      ============================================================================ */
-  --djep-brand: #000000;
+  --djep-brand: #c1098a;
 
   /* Auto-derived shades. oklch() darkens by reducing lightness while keeping
      the same hue + chroma, so warm brand colors (orange, yellow, red) stay
